@@ -3,4 +3,4 @@
 
 1. Please edit the paths to the data files before running the code.
 2. This code ranked 4th / 162 competitors on the public LB.
-3. [My Blog Post]() for more details.
+3. [My Blog Post](http://rohanrao91.blogspot.in/2015/11/black-friday-data-hack.html) for more details.
